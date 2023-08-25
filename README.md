@@ -33,29 +33,29 @@
   
     </td>
     <td>
-- Data Engineering
-- Airflow
-- Oozie Workflow
-- SQL
-- NoSQL
-- Neo4j Graph DB
-- Azure
-- AWS 
-- Kubernetes
-- Databricks
+    - Data Engineering
+    - Airflow
+    - Oozie Workflow
+    - SQL
+    - NoSQL
+    - Neo4j Graph DB
+    - Azure
+    - AWS 
+    - Kubernetes
+    - Databricks
   
     </td>
     <td>
 
-- Optimization
-- Simulation
-- Causal Inference
-- Game Theory
-- Data Visualization
-- Tableau
-- Power BI
-- Agile Development
-- Git
+    - Optimization
+    - Simulation
+    - Causal Inference
+    - Game Theory
+    - Data Visualization
+    - Tableau
+    - Power BI
+    - Agile Development
+    - Git
 
     </td>
   </tr>
