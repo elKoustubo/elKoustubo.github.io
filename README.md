@@ -35,3 +35,46 @@
     <td>Python</td>
  </tr>
 </table>
+
+<table border="0">
+  <tr>
+    <td>
+
+- Data Science
+- Statistics
+- EDA (Exploratory Data Analysis)
+- Machine Learning
+- AI (Artificial Intelligence)
+- NLP (Natural Language Processing)
+- Big Data
+- Apache Spark
+- Hadoop
+- Hive
+- Airflow
+- Oozie Workflow
+
+    </td>
+    <td>
+
+- Flink
+- SQL
+- NoSQL
+- Neo4j
+- Azure
+- AWS (Amazon Web Services)
+- Kubernetes
+- Databricks
+- Data Engineering
+- Optimization
+- Simulation
+- Causal Inference
+- Game Theory
+- Data Visualization
+- Tableau
+- Power BI
+- Agile Development
+- Git
+
+    </td>
+  </tr>
+</table>
