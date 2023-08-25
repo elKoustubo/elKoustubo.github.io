@@ -18,6 +18,20 @@
 
 <table border="0">
   <tr>
+        <td>
+
+- Data Science
+- Statistics
+- Python
+- Machine Learning
+- AI 
+- NLP 
+- Big Data
+- Apache Spark
+- Hadoop
+- Hive
+  
+    </td>
     <td>
 
 - Data Engineering
@@ -25,9 +39,9 @@
 - Oozie Workflow
 - SQL
 - NoSQL
-- Neo4j Graph Database
+- Neo4j Graph DB
 - Azure
-- AWS (Amazon Web Services)
+- AWS 
 - Kubernetes
 - Databricks
   
