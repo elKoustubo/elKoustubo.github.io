@@ -18,9 +18,9 @@
 
 <table border="0">
   <tr>
-      <td> 
+    <td> 
         
-- Data Science
+- Analytics
 - Statistics
 - Python
 - Machine Learning
