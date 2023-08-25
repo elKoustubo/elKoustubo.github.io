@@ -14,3 +14,11 @@
 - Neo4j Graph Data Science [View Certificate](https://graphacademy.neo4j.com/c/5bcc0883-1a2d-495a-95e8-aff3d8ff6d25/)
 - Elasticsearch Essential Training [View Certificate](https://www.linkedin.com/learning/certificates/3cb937af12adc6a70d08a77ce62e7c983307af19188b150be4b3428b967e6080?accountId=0&u=0&success=true&authUUID=YrrgwY3zSxy3w8RvfBEAUQ%3D%3D)
 
+### SKILLS :
+<table border="0">
+ <tr>
+    <td>Python</td>
+    <td>Statistics</td>
+   <td>Machine Learning</td>
+ </tr>
+</table>
