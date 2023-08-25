@@ -24,40 +24,40 @@
   <br>
 - Statistics <br>
 - Python <br>
-- Machine Learning<br>
+- Machine Learning <br>
 - AI <br>
 - NLP <br>
-- Big Data
-- Apache Spark
-- Hadoop
-- Hive
+- Big Data <br>
+- Apache Spark <br>
+- Hadoop <br>
+- Hive <br>
   
     </td>
     <td>
       
-    - Data Engineering
-    - Airflow
-    - Oozie Workflow
-    - SQL
-    - NoSQL
-    - Neo4j Graph DB
-    - Azure
-    - AWS 
-    - Kubernetes
-    - Databricks
+    - Data Engineering <br>
+    - Airflow <br>
+    - Oozie Workflow <br>
+    - SQL <br>
+    - NoSQL <br>
+    - Neo4j Graph DB <br>
+    - Azure <br>
+    - AWS <br>
+    - Kubernetes <br>
+    - Databricks <br>
   
     </td>
     <td>
 
-    - Optimization
-    - Simulation
-    - Causal Inference
-    - Game Theory
-    - Data Visualization
-    - Tableau
-    - Power BI
-    - Agile Development
-    - Git
+    - Optimization <br>
+    - Simulation <br>
+    - Causal Inference <br>
+    - Game Theory <br>
+    - Data Visualization <br>
+    - Tableau <br>
+    - Power BI <br>
+    - Agile Development <br>
+    - Git <br>
 
     </td>
   </tr>
