@@ -21,12 +21,12 @@
     <td> 
         
 - Analytics
-  <br><br>
-- Statistics
-- Python
-- Machine Learning
-- AI 
-- NLP 
+  <br>
+- Statistics <br>
+- Python <br>
+- Machine Learning<br>
+- AI <br>
+- NLP <br>
 - Big Data
 - Apache Spark
 - Hadoop
