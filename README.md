@@ -33,7 +33,6 @@
   
     </td>
     <td>
-
 - Data Engineering
 - Airflow
 - Oozie Workflow
