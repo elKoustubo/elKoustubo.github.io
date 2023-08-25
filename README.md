@@ -20,20 +20,6 @@
   <tr>
     <td>
 
-- Data Science
-- Statistics
-- EDA (Exploratory Data Analysis)
-- Machine Learning
-- AI (Artificial Intelligence)
-- NLP (Natural Language Processing)
-- Big Data
-- Apache Spark
-- Hadoop
-- Hive
-  
-    </td>
-    <td>
-
 - Data Engineering
 - Airflow
 - Oozie Workflow
