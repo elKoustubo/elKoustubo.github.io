@@ -18,18 +18,17 @@
 
 <table border="0">
   <tr>
-    <td>
-      
-    - Data Science
-    - Statistics
-    - Python
-    - Machine Learning
-    - AI 
-    - NLP 
-    - Big Data
-    - Apache Spark
-    - Hadoop
-    - Hive
+      <td> 
+  - Data Science
+  - Statistics
+  - Python
+  - Machine Learning
+  - AI 
+  - NLP 
+  - Big Data
+  - Apache Spark
+  - Hadoop
+  - Hive
   
     </td>
     <td>
