@@ -17,11 +17,21 @@
 ### SKILLS :
 <table border="0">
  <tr>
-    <td>- Python 
-     - Data Engineering </td>
+    <td>Python</td>
     <td>Statistics</td>
     <td>Machine Learning</td>
     <td>Python</td>
+ </tr>
+ <tr>
+    <td>Python</td>
+    <td>Statistics</td>
+    <td>Machine Learning</td>
+    <td>Python</td>
+ </tr>
+ <tr>
+    <td>Python</td>
+    <td>Statistics</td>
+    <td>Machine Learning</td>
     <td>Python</td>
  </tr>
 </table>
