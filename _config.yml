@@ -1,6 +1,15 @@
-title: Koustubh Jadhav    
+title: Koustubh   Jadhav    
 subtitle: ( ka-ou-stu-b  jad-uh-av )
 logo: /assets/img/headshot_circle.png
 description: Data Enthusiast | UMich - Master of Applied Data Science 
 show_downloads: false
 theme: jekyll-theme-minimal
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
