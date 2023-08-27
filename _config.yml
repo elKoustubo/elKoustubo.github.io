@@ -9,7 +9,12 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-
+# Social media links
+social:
+  - title: GitHub
+    url: https://github.com/elKoustubo
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/koustubhj/
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
