@@ -4,23 +4,29 @@ logo: /assets/img/headshot_circle.png
 description: Data Enthusiast | UMich - Master of Applied Data Science 
 show_downloads: false
 theme: jekyll-theme-minimal
+
 # Navigation links
 navbar_links:
   - title: Home
     url: "/"
   - title: Projects
     url: "/projects"
+    
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  
 # Social media links
 social:
   - title: GitHub
     url: https://github.com/elKoustubo
   - title: LinkedIn
     url: https://www.linkedin.com/in/koustubhj/
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+    
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+# Build settings
+markdown: kramdown
