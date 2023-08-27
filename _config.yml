@@ -11,6 +11,8 @@ navbar_links:
     url: "/"
   - title: Projects
     url: "/projects"
+  - title: Blog
+    url: "/blog"
     
 # Select which social network share links to show in posts
 share-links-active:
